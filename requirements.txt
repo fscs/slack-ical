@@ -5,7 +5,7 @@ certifi==2019.6.16
 chardet==3.0.4
 constantly==15.1.0
 coverage==4.5.4
-httplib2==0.13.1
+httplib2==0.18.0
 hyperlink==19.0.0
 icalendar==4.0.3
 -e git+https://github.com/fscs/icalevents.git@master#egg=icalevents
